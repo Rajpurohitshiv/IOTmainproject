@@ -30,7 +30,7 @@ Depending on the application, users can initiate control actions through the web
 
  ## Project Members
 
-1.Jilla Kishoran
+1.Shivraj Singh Rajpurohit
 
 
 ## Conclusion
